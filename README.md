@@ -8,4 +8,6 @@ Player ask 'yes/no' question and run program. After that program will give answe
 to the player.
 
 ##### Run program
-```ruby 8ball.rb
+```sh
+ruby 8ball.rb
+```
